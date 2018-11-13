@@ -1,3 +1,4 @@
 build/
 django_education_certificates.egg-info/
+*.pyc
 

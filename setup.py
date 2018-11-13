@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'Django-Education-Certificates'
+NAME = 'django_education_certificates'
 DESCRIPTION = 'Manage and display your education certificates (PDF)'
 URL = 'https://github.com/elmar-hinz/Django.EducationCertificates'
 EMAIL = 't3elmar@gmail.com'
